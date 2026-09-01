@@ -3,3 +3,4 @@
 @media print{.sticky,.gallery-strip,.hero-picture,.compare,dialog,.checklist input{display:none!important}.slots,.grid{display:block}.day,.card{break-inside:avoid}.slot{border-bottom:1px solid #ccc}body{font-size:12px}main{max-width:none}.slot p{font-size:13px}}
 
 
+.route-map{margin:0 0 18px;padding:10px;background:#f7f2e8;border:1px solid var(--line);border-radius:18px}.route-map a{display:block}.route-map img{display:block;width:100%;max-height:620px;object-fit:contain;border-radius:12px}.route-map figcaption{padding:9px 6px 2px;color:var(--muted);font-size:.88rem;line-height:1.5}

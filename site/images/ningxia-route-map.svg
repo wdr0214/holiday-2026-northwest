@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 920" role="img" aria-labelledby="title desc">
+<title id="title">宁夏、阿拉善左旗与乌海九天路线示意图</title><desc id="desc">银川出发，分别游乌兰湖、贺兰山、西夏陵和水洞沟，再经西部梦幻峡谷、乌海湖、青铜峡、沙坡头返回银川。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto"><path d="M0,0 L0,6 L8,3 z" fill="#b45532"/></marker><filter id="shadow"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-opacity=".16"/></filter></defs>
+<rect width="760" height="920" rx="28" fill="#f7f2e8"/>
+<path d="M392 102 C452 115 488 163 469 222 C454 270 485 310 461 356 C442 393 470 434 446 481 C421 530 448 572 420 620 C394 664 415 718 381 781 C348 840 305 819 302 756 C298 690 320 650 296 603 C271 553 301 507 280 466 C254 414 286 370 273 319 C258 257 293 219 300 166 C307 116 348 91 392 102 Z" fill="#ecd9b9" stroke="#c6a873" stroke-width="3"/>
+<text x="359" y="455" text-anchor="middle" font-size="48" font-weight="700" fill="#bba075" opacity=".55">宁 夏</text>
+<path d="M330 285 C260 225 192 201 134 235" fill="none" stroke="#b45532" stroke-width="6" stroke-linecap="round" marker-end="url(#arrow)"/>
+<path d="M129 255 C195 290 252 300 322 315" fill="none" stroke="#b45532" stroke-width="5" stroke-dasharray="10 9" marker-end="url(#arrow)"/>
+<path d="M325 328 C249 345 177 350 112 398" fill="none" stroke="#b45532" stroke-width="6" marker-end="url(#arrow)"/>
+<path d="M119 421 C184 446 253 433 331 401" fill="none" stroke="#b45532" stroke-width="5" stroke-dasharray="10 9" marker-end="url(#arrow)"/>
+<path d="M342 415 C477 388 591 317 633 220" fill="none" stroke="#b45532" stroke-width="6" marker-end="url(#arrow)"/>
+<path d="M642 241 C664 306 663 370 640 430" fill="none" stroke="#b45532" stroke-width="6" marker-end="url(#arrow)"/>
+<path d="M626 452 C540 504 464 554 392 616" fill="none" stroke="#b45532" stroke-width="6" marker-end="url(#arrow)"/>
+<path d="M380 643 C345 696 318 744 310 799" fill="none" stroke="#b45532" stroke-width="6" marker-end="url(#arrow)"/>
+<path d="M329 793 C381 715 407 622 383 521 C369 462 350 421 330 388" fill="none" stroke="#b45532" stroke-width="6" marker-end="url(#arrow)"/>
+<g font-family="system-ui,'Microsoft YaHei',sans-serif" font-size="18" fill="#2b322e">
+<g transform="translate(333 349)"><circle r="11" fill="#275d52"/><rect x="15" y="-25" width="164" height="52" rx="12" fill="white" filter="url(#shadow)"/><text x="28" y="-3" font-weight="700">银川</text><text x="28" y="18" font-size="14" fill="#66706a">博物馆 · 水洞沟</text></g>
+<g transform="translate(115 220)"><circle r="10" fill="#b45532"/><rect x="-92" y="-62" width="182" height="46" rx="11" fill="white" filter="url(#shadow)"/><text x="-77" y="-33" font-weight="700">乌兰湖五湖穿越</text></g>
+<g transform="translate(110 410)"><circle r="10" fill="#b45532"/><rect x="-82" y="18" width="192" height="70" rx="11" fill="white" filter="url(#shadow)"/><text x="-67" y="45" font-weight="700">贺兰山岩画</text><text x="-67" y="69" font-size="15">镇北堡 · 西夏陵</text></g>
+<g transform="translate(640 205)"><circle r="10" fill="#b45532"/><rect x="-188" y="-62" width="195" height="46" rx="11" fill="white" filter="url(#shadow)"/><text x="-174" y="-33" font-weight="700">西部梦幻峡谷</text></g>
+<g transform="translate(640 445)"><circle r="10" fill="#b45532"/><rect x="18" y="-25" width="90" height="50" rx="11" fill="white" filter="url(#shadow)"/><text x="33" y="7" font-weight="700">乌海湖</text></g>
+<g transform="translate(389 628)"><circle r="10" fill="#b45532"/><rect x="18" y="-26" width="205" height="55" rx="11" fill="white" filter="url(#shadow)"/><text x="33" y="-3" font-weight="700">青铜峡黄河大峡谷</text><text x="33" y="19" font-size="14">游船 · 108塔</text></g>
+<g transform="translate(310 812)"><circle r="10" fill="#b45532"/><rect x="18" y="-30" width="140" height="61" rx="11" fill="white" filter="url(#shadow)"/><text x="33" y="-6" font-weight="700">中宁 · 沙坡头</text><text x="33" y="18" font-size="14">黄河区 · 沙漠区</text></g>
+</g>
+<text x="30" y="888" font-family="system-ui,'Microsoft YaHei',sans-serif" font-size="15" fill="#71685a">路线示意 · 不按比例｜虚线为必须从银川组织的往返段</text>
+</svg>
